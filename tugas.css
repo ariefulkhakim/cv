@@ -1,0 +1,81 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial;
+}
+body {
+	background: url(images.jpg);
+	padding-bottom: 50px;
+	padding-top: -18px;
+
+}
+#page {
+	margin: 100px auto;
+	padding: 0;
+	padding-bottom: 42px;
+	padding-top: -3px;
+}
+#wrapper {
+	width: 720px;
+	margin: 0 auto;
+	background-color: white;
+	text-align: center;
+	padding-left: 78px;
+	padding-right: 78px;
+	padding-bottom: 65px;
+}
+#data {
+	text-align: right;
+	text-decoration: none;
+}
+.line h3 {
+	text-align: left;
+	float: left;
+	margin: -2px;
+	
+}
+.line p{
+	display: block;
+	text-align: left;
+}
+.line ul {
+	text-align: left;
+	display: block;
+}
+.section {
+	text-align: center;
+}
+.section span {
+	display: inline-block;
+	position: relative;
+}
+#page h1{
+	padding-bottom: -32px;
+	padding-top: 50px;
+}
+#page p {
+	padding-top: -2px
+}
+
+.Col1 {
+    float: left;
+    width: 29.33%;
+    position: relative;
+    left: 68.67%;
+    overflow: hidden;
+}
+.Col2 {
+    float: left;
+    width: 29.33%;
+    position: relative;
+    left: 72.67%;
+    overflow: hidden;
+    text-align: center;
+    margin-left: -298px;
+}
+div#Tahap {
+    margin-left: 232px;
+}
+.skills {
+    margin-left: -1182px;
+}
