@@ -4,7 +4,7 @@
 	font-family: Arial;
 }
 body {
-	background: url(images.jpg);
+	background: url(bagus.jpg);
 	padding-bottom: 50px;
 	padding-top: -18px;
 
@@ -16,13 +16,13 @@ body {
 	padding-top: -3px;
 }
 #wrapper {
-	width: 720px;
+	width: 800px;
 	margin: 0 auto;
 	background-color: white;
 	text-align: center;
-	padding-left: 78px;
-	padding-right: 78px;
-	padding-bottom: 65px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 25px;
 }
 #data {
 	text-align: right;
